@@ -105,7 +105,7 @@ If you have any feedback, please reach out to us @ insightmate@gmail.com
 
 
 ## Contributers
-
+- [@rohitchaudhari](https://github.com/Rohit-gits0)
 - [@imperialrogers](https://github.com/imperialrogers)
 - [@imguptaharsh](https://github.com/imguptaharsh)
 - [@anubhav-0910](https://github.com/anubhav-0910)
